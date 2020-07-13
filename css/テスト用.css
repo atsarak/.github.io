@@ -1,0 +1,68 @@
+@charset "UTF-8";
+
+/* common setting */
+body {
+    color:red;
+}
+.flex-box {
+    display:flex;
+}
+.margin {
+    margin:1rem;
+}
+.center-wrapper {
+    width:70%;
+    margin:auto;
+}
+
+/* individual setteing */
+
+#first {
+    height:20rem;
+    color:blue;
+    background-color: yellow;
+    text-align: center;
+    width:50%;
+}
+#second {
+    height:20rem;
+    color:green;
+    opacity:0.4;
+    background-color: violet;
+    width:50%;   
+}
+#third {
+    height:20rem;
+    background-color: turquoise;
+    width:30%;
+    font-size:3rem;
+    margin:auto;
+    text-align: center;
+}
+#fourth {
+    height:20rem;
+    background-color:aliceblue;
+    width:45%;
+    font-size:4rem;
+}
+#yellow {
+    background-color: yellow;
+    height:8rem;
+    width:80%;
+    margin:auto;
+}
+#black {
+    background-color: black;
+}
+#fifth {
+    font-size:5rem;
+    width:90%;
+    border:red 5px solid;
+    margin:50px;
+}
+#background-color {
+    background-color: blue;
+    width:90%;
+    margin:auto;
+    padding:10px;
+}
